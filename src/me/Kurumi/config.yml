@@ -1,0 +1,5 @@
+Type: rename
+
+#The plugin has two modes, rename and cancel.
+#Cancel will cause nametags to not rename armor stands, and the name tag wont be consumed.
+#Rename will cause the armor stand to be renamed when a name tag is used on it.
